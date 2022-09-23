@@ -10,5 +10,8 @@ public class age2 extends myage {
 	public static void main(String[] args) {
 		age2 a = new age2();
 		a.age(29);
+		System.out.println("age1");
 	}
+	
+	
 }
